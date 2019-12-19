@@ -1,0 +1,18 @@
+{
+"format_version": 1, 
+"header": {
+"description": "ChromaHills128x WIP 1.12 v2", 
+"name": "chroma_hills", 
+"uuid": "faf5298a-1a4e-4acc-961c-f9cf9b2d0713", 
+"version": [0, 0, 1], 
+"min_engine_version": [1, 2, 6]
+}, 
+"modules": [
+{ 
+"description": "Example vanilla resource pack",
+"type": "resources",
+"uuid": "4acf7e71-e146-49c5-9d0a-eb19972f4edc",
+"version": [0, 0, 1]
+}
+]
+}

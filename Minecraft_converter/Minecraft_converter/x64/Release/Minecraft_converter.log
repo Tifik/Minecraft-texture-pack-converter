@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  Minecraft_converter.cpp
+c:\users\jojo\source\repos\minecraftgui\minecraft_converter\minecraft_converter\minecraft_converter.cpp(553): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+c:\users\jojo\source\repos\minecraftgui\minecraft_converter\minecraft_converter\minecraft_converter.cpp(581): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  Minecraft_converter.vcxproj -> C:\Users\jojo\source\repos\MinecraftGUI\x64\Release\Minecraft_converter.lib

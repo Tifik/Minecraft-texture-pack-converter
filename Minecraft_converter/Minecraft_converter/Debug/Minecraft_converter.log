@@ -1,0 +1,3 @@
+﻿  Minecraft_converter.cpp
+c:\users\jojo\source\repos\minecraft_converter\minecraft_converter\minecraft_converter.cpp(80): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Minecraft_converter.vcxproj -> C:\Users\jojo\source\repos\Minecraft_converter\Debug\Minecraft_converter.exe

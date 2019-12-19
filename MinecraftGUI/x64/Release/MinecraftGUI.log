@@ -1,0 +1,318 @@
+﻿  MTC.cpp
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+opencv_core410.lib(samples.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(system.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(datafile.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(logger.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(glob.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(opencv_core_pch.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(alloc.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(ocl.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(filesystem.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(logtagmanager.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(trace.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(matrix_wrap.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(matrix.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(umatrix.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(convert.dispatch.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(opencl_core.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(logtagconfigparser.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(check.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(copy.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(matrix_expressions.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(cuda_gpu_mat.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(cuda_host_mem.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(cuda_stream.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(opengl.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(matrix_iterator.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(matrix_operations.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(matmul.dispatch.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(arithm.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(sum.dispatch.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(lapack.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(opencl_kernels_core.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(convert_scale.dispatch.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(convert.avx2.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(channels.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(array.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(datastructs.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(matrix_c.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(gl_core_3_1.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(tables.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(pca.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(matmul.avx2.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(arithm.dispatch.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(sum.avx2.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(matrix_decomp.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(norm.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(minmax.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(convert_scale.avx2.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(kmeans.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(persistence.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(persistence_types.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(arithm.sse4_1.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(arithm.avx2.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(stat.dispatch.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(rand.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(parallel.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(persistence_xml.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(persistence_yml.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(persistence_json.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(matrix_sparse.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(stat.sse4_2.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+opencv_core410.lib(stat.avx2.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+libcpmt.lib(locale0.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+libcpmt.lib(locale0.obj) : error LNK2005: "public: class std::_Yarn<char> & __cdecl std::_Yarn<char>::operator=(char const *)" (??4?$_Yarn@D@std@@QEAAAEAV01@PEBD@Z) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(locale0.obj) : error LNK2005: "void __cdecl std::_Facet_Register(class std::_Facet_base *)" (?_Facet_Register@std@@YAXPEAV_Facet_base@1@@Z) ist bereits in msvcprt.lib(locale0_implib.obj) definiert.
+libcpmt.lib(locale0.obj) : error LNK2005: "private: static class std::locale::_Locimp * __cdecl std::locale::_Getgloballocale(void)" (?_Getgloballocale@locale@std@@CAPEAV_Locimp@12@XZ) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(locale0.obj) : error LNK2005: "private: static class std::locale::_Locimp * __cdecl std::locale::_Init(bool)" (?_Init@locale@std@@CAPEAV_Locimp@12@_N@Z) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(locale0.obj) : error LNK2005: "public: static void __cdecl std::_Locinfo::_Locinfo_ctor(class std::_Locinfo *,char const *)" (?_Locinfo_ctor@_Locinfo@std@@SAXPEAV12@PEBD@Z) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(locale0.obj) : error LNK2005: "public: static void __cdecl std::_Locinfo::_Locinfo_dtor(class std::_Locinfo *)" (?_Locinfo_dtor@_Locinfo@std@@SAXPEAV12@@Z) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(locale0.obj) : error LNK2005: "private: static class std::locale::_Locimp * __cdecl std::locale::_Locimp::_New_Locimp(class std::locale::_Locimp const &)" (?_New_Locimp@_Locimp@locale@std@@CAPEAV123@AEBV123@@Z) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(cerr.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+libcpmt.lib(cerr.obj) : error LNK2005: "public: __cdecl std::locale::id::operator unsigned __int64(void)" (??Bid@locale@std@@QEAA_KXZ) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(cout.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+libcpmt.lib(cout.obj) : error LNK2005: "public: __cdecl std::locale::id::operator unsigned __int64(void)" (??Bid@locale@std@@QEAA_KXZ) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(locale.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+libcpmt.lib(locale.obj) : error LNK2005: "public: class std::_Yarn<char> & __cdecl std::_Yarn<char>::operator=(char const *)" (??4?$_Yarn@D@std@@QEAAAEAV01@PEBD@Z) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(locale.obj) : error LNK2005: "public: __cdecl std::locale::id::operator unsigned __int64(void)" (??Bid@locale@std@@QEAA_KXZ) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(locale.obj) : error LNK2005: "public: struct _Cvtvec __cdecl std::_Locinfo::_Getcvt(void)const " (?_Getcvt@_Locinfo@std@@QEBA?AU_Cvtvec@@XZ) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(locale.obj) : error LNK2005: "private: static void __cdecl std::locale::_Locimp::_Locimp_Addfac(class std::locale::_Locimp *,class std::locale::facet *,unsigned __int64)" (?_Locimp_Addfac@_Locimp@locale@std@@CAXPEAV123@PEAVfacet@23@_K@Z) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(iosptrs.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+libcpmt.lib(xlock.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+libcpmt.lib(xlock.obj) : error LNK2005: "public: __cdecl std::_Lockit::_Lockit(int)" (??0_Lockit@std@@QEAA@H@Z) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(xlock.obj) : error LNK2005: "public: __cdecl std::_Lockit::~_Lockit(void)" (??1_Lockit@std@@QEAA@XZ) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(xthrow.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+libcpmt.lib(xthrow.obj) : error LNK2005: "void __cdecl std::_Xbad_alloc(void)" (?_Xbad_alloc@std@@YAXXZ) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(xthrow.obj) : error LNK2005: "void __cdecl std::_Xlength_error(char const *)" (?_Xlength_error@std@@YAXPEBD@Z) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(xthrow.obj) : error LNK2005: "void __cdecl std::_Xout_of_range(char const *)" (?_Xout_of_range@std@@YAXPEBD@Z) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(wlocale.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+libcpmt.lib(wlocale.obj) : error LNK2005: "protected: virtual __cdecl std::codecvt<wchar_t,char,struct _Mbstatet>::~codecvt<wchar_t,char,struct _Mbstatet>(void)" (??1?$codecvt@_WDU_Mbstatet@@@std@@MEAA@XZ) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(wlocale.obj) : error LNK2005: "public: class std::_Yarn<char> & __cdecl std::_Yarn<char>::operator=(char const *)" (??4?$_Yarn@D@std@@QEAAAEAV01@PEBD@Z) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(wlocale.obj) : error LNK2005: "public: __cdecl std::locale::id::operator unsigned __int64(void)" (??Bid@locale@std@@QEAA_KXZ) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(wlocale.obj) : error LNK2005: "public: static unsigned __int64 __cdecl std::codecvt<wchar_t,char,struct _Mbstatet>::_Getcat(class std::locale::facet const * *,class std::locale const *)" (?_Getcat@?$codecvt@_WDU_Mbstatet@@@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(wlocale.obj) : error LNK2005: "public: struct _Cvtvec __cdecl std::_Locinfo::_Getcvt(void)const " (?_Getcvt@_Locinfo@std@@QEBA?AU_Cvtvec@@XZ) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(wlocale.obj) : error LNK2005: "public: unsigned short const * __cdecl std::_Locinfo::_W_Getdays(void)const " (?_W_Getdays@_Locinfo@std@@QEBAPEBGXZ) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(wlocale.obj) : error LNK2005: "public: unsigned short const * __cdecl std::_Locinfo::_W_Getmonths(void)const " (?_W_Getmonths@_Locinfo@std@@QEBAPEBGXZ) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(xlocale.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+libcpmt.lib(xlocale.obj) : error LNK2005: "public: class std::_Yarn<char> & __cdecl std::_Yarn<char>::operator=(char const *)" (??4?$_Yarn@D@std@@QEAAAEAV01@PEBD@Z) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(xlocale.obj) : error LNK2005: "public: __cdecl std::locale::id::operator unsigned __int64(void)" (??Bid@locale@std@@QEAA_KXZ) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(xlocale.obj) : error LNK2005: "public: struct _Cvtvec __cdecl std::_Locinfo::_Getcvt(void)const " (?_Getcvt@_Locinfo@std@@QEBA?AU_Cvtvec@@XZ) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(xlocale.obj) : error LNK2005: "public: unsigned short const * __cdecl std::_Locinfo::_W_Getdays(void)const " (?_W_Getdays@_Locinfo@std@@QEBAPEBGXZ) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(xlocale.obj) : error LNK2005: "public: unsigned short const * __cdecl std::_Locinfo::_W_Getmonths(void)const " (?_W_Getmonths@_Locinfo@std@@QEBAPEBGXZ) ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(xdateord.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+libcpmt.lib(xwctomb.obj) : error LNK2005: _Getcvt ist bereits in msvcprt.lib(MSVCP140.dll) definiert.
+libcpmt.lib(winapisupp.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+libcpmt.lib(StlCompareStringA.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+libcpmt.lib(winapinls.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+libcpmt.lib(StlCompareStringW.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+libcpmt.lib(StlLCMapStringW.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+libcpmt.lib(StlLCMapStringA.obj) : error LNK2038: Konflikt ermittelt für "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj überein.
+libucrt.lib(exit.obj) : error LNK2005: _cexit ist bereits in ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) definiert.
+libucrt.lib(atox.obj) : error LNK2005: atoi ist bereits in ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll) definiert.
+libucrt.lib(locks.obj) : error LNK2005: _lock_locales ist bereits in ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll) definiert.
+libucrt.lib(locks.obj) : error LNK2005: _unlock_locales ist bereits in ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll) definiert.
+libucrt.lib(onexit.obj) : error LNK2005: _crt_at_quick_exit ist bereits in ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) definiert.
+libucrt.lib(onexit.obj) : error LNK2005: _crt_atexit ist bereits in ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) definiert.
+libucrt.lib(onexit.obj) : error LNK2005: _execute_onexit_table ist bereits in ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) definiert.
+libucrt.lib(onexit.obj) : error LNK2005: _initialize_onexit_table ist bereits in ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) definiert.
+libucrt.lib(onexit.obj) : error LNK2005: _register_onexit_function ist bereits in ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) definiert.
+libucrt.lib(invalid_parameter.obj) : error LNK2005: _invalid_parameter_noinfo_noreturn ist bereits in ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) definiert.
+libucrt.lib(new_handler.obj) : error LNK2005: _callnewh ist bereits in ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll) definiert.
+libucrt.lib(environment_initialization.obj) : error LNK2005: _initialize_narrow_environment ist bereits in ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) definiert.
+libucrt.lib(fflush.obj) : error LNK2005: fflush ist bereits in ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) definiert.
+libucrt.lib(_file.obj) : error LNK2005: __acrt_iob_func ist bereits in ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) definiert.
+libucrt.lib(_file.obj) : error LNK2005: _get_stream_buffer_pointers ist bereits in ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) definiert.
+libucrt.lib(_file.obj) : error LNK2005: _lock_file ist bereits in ucrt.lib(api-ms-win-crt-filesystem-l1-1-0.dll) definiert.
+libucrt.lib(_file.obj) : error LNK2005: _unlock_file ist bereits in ucrt.lib(api-ms-win-crt-filesystem-l1-1-0.dll) definiert.
+libucrt.lib(exception_filter.obj) : error LNK2005: _seh_filter_dll ist bereits in ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) definiert.
+libucrt.lib(errno.obj) : error LNK2005: _errno ist bereits in ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) definiert.
+libucrt.lib(localeconv.obj) : error LNK2005: localeconv ist bereits in ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll) definiert.
+libucrt.lib(ctype.obj) : error LNK2005: __pctype_func ist bereits in ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll) definiert.
+libucrt.lib(initctype.obj) : error LNK2005: ___lc_codepage_func ist bereits in ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll) definiert.
+libucrt.lib(initctype.obj) : error LNK2005: ___lc_collate_cp_func ist bereits in ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll) definiert.
+libucrt.lib(initctype.obj) : error LNK2005: ___lc_locale_name_func ist bereits in ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll) definiert.
+libucrt.lib(initctype.obj) : error LNK2005: ___mb_cur_max_func ist bereits in ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll) definiert.
+libucrt.lib(tolower_toupper.obj) : error LNK2005: tolower ist bereits in ucrt.lib(api-ms-win-crt-string-l1-1-0.dll) definiert.
+libucrt.lib(tolower_toupper.obj) : error LNK2005: toupper ist bereits in ucrt.lib(api-ms-win-crt-string-l1-1-0.dll) definiert.
+LINK : warning LNK4098: Standardbibliothek "MSVCRT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+  Minecraft_converter.lib(Minecraft_converter.obj) : Es wurde ein mit /GL kompiliertes MSIL .netmodule oder module gefunden. Verknüpfung wird mit /LTCG erneut gestartet. Fügen Sie /LTCG zur Linkbefehlszeile hinzu, um die Linkerleistung zu erhöhen.
+opencv_core410.lib(samples.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(system.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(datafile.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(logger.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(glob.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(opencv_core_pch.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(alloc.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(ocl.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(filesystem.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(logtagmanager.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(trace.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(matrix_wrap.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(matrix.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(umatrix.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(convert.dispatch.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(opencl_core.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(logtagconfigparser.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(check.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(copy.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(matrix_expressions.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(cuda_gpu_mat.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(cuda_host_mem.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(cuda_stream.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(opengl.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(matrix_iterator.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(matrix_operations.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(matmul.dispatch.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(arithm.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(sum.dispatch.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(lapack.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(opencl_kernels_core.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(convert_scale.dispatch.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(convert.avx2.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(channels.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(array.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(datastructs.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(matrix_c.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(gl_core_3_1.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(tables.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(pca.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(matmul.avx2.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(arithm.dispatch.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(sum.avx2.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(matrix_decomp.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(norm.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(minmax.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(convert_scale.avx2.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(kmeans.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(persistence.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(persistence_types.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(arithm.sse4_1.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(arithm.avx2.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(stat.dispatch.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(rand.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(parallel.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(persistence_xml.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(persistence_yml.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(persistence_json.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(matrix_sparse.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(stat.sse4_2.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(stat.avx2.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+libcpmt.lib(locale0.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+libcpmt.lib(cerr.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+libcpmt.lib(cout.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+libcpmt.lib(locale.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+libcpmt.lib(iosptrs.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+libcpmt.lib(xlock.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+libcpmt.lib(xthrow.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+libcpmt.lib(wlocale.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+libcpmt.lib(xlocale.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+libcpmt.lib(xdateord.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+libcpmt.lib(winapisupp.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+libcpmt.lib(StlCompareStringA.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+libcpmt.lib(winapinls.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+libcpmt.lib(StlCompareStringW.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+libcpmt.lib(StlLCMapStringW.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+libcpmt.lib(StlLCMapStringA.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+LINK : warning LNK4098: Standardbibliothek "MSVCRT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+opencv_imgcodecs410.lib(loadsave.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgcodecs410.lib(grfmt_bmp.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgcodecs410.lib(grfmt_sunras.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgcodecs410.lib(grfmt_jpeg.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgcodecs410.lib(grfmt_pxm.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgcodecs410.lib(grfmt_pfm.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgcodecs410.lib(grfmt_tiff.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgcodecs410.lib(grfmt_png.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgcodecs410.lib(grfmt_jpeg2000.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgcodecs410.lib(grfmt_exr.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgcodecs410.lib(grfmt_webp.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgcodecs410.lib(grfmt_hdr.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgcodecs410.lib(grfmt_pam.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgcodecs410.lib(exif.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgcodecs410.lib(opencv_imgcodecs_pch.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgcodecs410.lib(utils.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgcodecs410.lib(bitstrm.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgcodecs410.lib(grfmt_base.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgcodecs410.lib(rgbe.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgproc410.lib(resize.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgproc410.lib(color.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgproc410.lib(resize.avx2.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgproc410.lib(resize.sse4_1.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgproc410.lib(opencl_kernels_imgproc.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgproc410.lib(opencv_imgproc_pch.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgproc410.lib(demosaicing.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgproc410.lib(color_lab.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgproc410.lib(color_hsv.dispatch.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgproc410.lib(color_rgb.dispatch.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgproc410.lib(color_yuv.dispatch.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgproc410.lib(color_hsv.sse4_1.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgproc410.lib(color_hsv.avx2.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgproc410.lib(tables.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgproc410.lib(color_rgb.sse4_1.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgproc410.lib(color_rgb.avx2.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgproc410.lib(color_yuv.sse4_1.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_imgproc410.lib(color_yuv.avx2.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfHeader.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfFrameBuffer.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfInputFile.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfOutputFile.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfChannelList.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfChromaticities.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfStandardAttributes.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(IexBaseExc.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfIO.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfStdIO.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfCompressor.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfAttribute.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfBoxAttribute.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfChannelListAttribute.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfChromaticitiesAttribute.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfCompressionAttribute.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfDoubleAttribute.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfEnvmapAttribute.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfFloatAttribute.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfIntAttribute.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfKeyCode.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfKeyCodeAttribute.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfLineOrderAttribute.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfMatrixAttribute.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfOpaqueAttribute.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfPreviewImage.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfPreviewImageAttribute.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfRationalAttribute.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfStringAttribute.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfStringVectorAttribute.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfTileDescriptionAttribute.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfTimeCode.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfTimeCodeAttribute.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfVecAttribute.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(IlmThreadMutexWin32.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(IlmThreadPool.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfScanLineInputFile.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfTiledInputFile.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfMisc.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(IlmThreadSemaphoreWin32.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(IexThrowErrnoExc.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfRleCompressor.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfZipCompressor.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfPizCompressor.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfPxr24Compressor.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfB44Compressor.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(IlmThreadWin32.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfTiledMisc.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfTileOffsets.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(half.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfConvert.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+IlmImf.lib(ImfHuf.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(merge.dispatch.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(softfloat.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(mathfuncs.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(merge.avx2.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(mathfuncs_core.dispatch.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(out.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(mathfuncs_core.avx.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(mathfuncs_core.avx2.obj) : error LNK2038: Konflikt ermittelt f³r "RuntimeLibrary": Der Wert "MT_StaticRelease" stimmt nicht mit dem Wert "MD_DynamicRelease" in MTC.obj ³berein.
+opencv_core410.lib(opengl.obj) : error LNK2001: Nicht aufgel÷stes externes Symbol "__imp_wglGetCurrentContext".
+opencv_core410.lib(opengl.obj) : error LNK2001: Nicht aufgel÷stes externes Symbol "__imp_wglGetCurrentDC".
+opencv_core410.lib(gl_core_3_1.obj) : error LNK2001: Nicht aufgel÷stes externes Symbol "__imp_wglGetProcAddress".
+C:\Users\jojo\source\repos\MinecraftGUI\x64\Release\MinecraftGUI.exe : fatal error LNK1120: 3 nicht aufgel÷ste Externe
